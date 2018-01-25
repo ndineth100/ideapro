@@ -1,7 +1,7 @@
 const expect = require('expect');
 const request = require('supertest');
 
-const Subscription = require('./../Subscription');
+const Subscription = require('../index');
 
 describe('CLASS/ SubscriptionResponse', () => {
     it('Should create a new SubscriptionResponse', () => {

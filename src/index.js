@@ -1,3 +1,3 @@
 module.exports = {
-    Subscription: require('./lib/Subscription/Subscription')
+    Subscription: require('./../server/lib/Subscription')
 };
