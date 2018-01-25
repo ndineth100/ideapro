@@ -1,7 +1,7 @@
 {
-  "name": "ideamart-js",
+  "name": "ideapro",
   "version": "1.0.0-beta.0",
-  "description": "Ideamart-js library is to develope IDEA PRO applications using Node.js",
+  "description": "ideapro library is to develope IDEA PRO applications using Node.js",
   "main": "src/index.js",
   "scripts": {
     "start": "node server/server.js",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ndineth100/ideamart-js.git"
+    "url": "git+https://github.com/ndineth100/ideapro.git"
   },
   "keywords": [
     "ideamart",
@@ -44,7 +44,7 @@
     "api"
   ],
   "bugs": {
-    "url": "https://github.com/ndineth100/ideamart-js/issues"
+    "url": "https://github.com/ndineth100/ideapro/issues"
   },
-  "homepage": "https://github.com/ndineth100/ideamart-js#readme"
+  "homepage": "https://github.com/ndineth100/ideapro#readme"
 }
